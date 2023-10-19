@@ -1,4 +1,4 @@
-package ua.com.andromeda.dessertclicker.datasource
+package ua.com.andromeda.dessertclicker.data
 
 import ua.com.andromeda.dessertclicker.R
 import ua.com.andromeda.dessertclicker.model.Dessert
